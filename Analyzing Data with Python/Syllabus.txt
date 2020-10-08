@@ -1,0 +1,39 @@
+Module 1 – Importing Data Sets
+
+Importing Data Sets
+Lab 1: Importing Data Sets
+Quiz: Importing Data Sets
+
+
+Module 2 – Data Wrangling
+
+Data Wrangling
+Lab 2: Data Wrangling
+Quiz: Data Wrangling
+
+
+Module 3 - Exploratory Data Analysis
+
+Exploratory Data Analysis
+Lab 3: Exploratory Data Analysis
+Quiz: Exploratory Data Analysis
+
+
+Module 4 – Model Development
+
+Model Development
+Lab: Model Development
+Quiz: Model Development
+
+
+Module 5 - Model Evaluation
+
+Model Evaluation and Refinement
+Lab: Model Evaluation and Refinement
+Quiz: Model Refinement
+Acknowledgements
+
+
+Module 6 - Final Assignment
+
+Peer-graded Assignment: Drinking Habits of Global Population
